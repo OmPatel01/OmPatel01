@@ -5,25 +5,43 @@
 
 🧠 My interests lie at the intersection of **Machine Learning, Generative AI, and Large Language Models (LLMs)**. I’m also actively exploring **Computer Vision** and advanced deep learning techniques.
 
-🌱 Always open to **collaborations, side projects**, and meaningful connections in AI, ML, and Data Science that lead to impactful innovation.
+💡 I bring a **product-driven mindset**, focusing on building **efficient and scalable AI solutions** that create real impact.
 
-🌐 **Portfolio:** [https://your-portfolio-link.com](https://ompatel01.github.io/Portfolio/) *(Replace with your actual link)*
+🤝 I’m open to **collaborations and side projects** in AI, machine learning, and data science. I enjoy working with teams who are passionate about innovation and eager to build **meaningful AI products**.
+
+🌐 **Portfolio:** [https://ompatel01.github.io/Portfolio/](https://ompatel01.github.io/Portfolio/)
 
 ---
 
 ## 💻 Tech Stack:
-**Languages:** Python, SQL  
-**Tools:** Power BI, Excel  
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow  
-**Skills:** Data Analysis, Predictive Modeling, Machine Learning, EDA
+**Languages:** Python, SQL, Bash  
+**Libraries & Frameworks:**  
+- **Data Science & ML:** Pandas, NumPy, Scikit-learn
+- **Deep Learning:** TensorFlow, Keras 
+- **NLP & LLMs:** Hugging Face Transformers, LangChain  
+- **Visualization:** Matplotlib, Seaborn
 
+**Tools & Platforms:**  
+- Git & GitHub  
+- Power BI, Excel  
+- VS Code, Jupyter Notebook, Google Colab  
+- Linux, Docker (basic), Streamlit  
+- Postman, REST APIs  
+
+**Skills:**  
+- Exploratory Data Analysis (EDA)  
+- Predictive Modeling & Classification  
+- Fine-tuning LLMs & Generative AI  
+- Prompt Engineering  
+- Model Deployment (basic)  
+- Working with APIs & Agent-based Systems
 ---
 
 ## 🔍 Focus Areas:
-- 🤖 Machine Learning & AI
-- 📊 Data Analytics & Visualization
-- 🧩 Predictive Modeling & Classification
-- 🧠 Generative AI & LLMs
+- 🤖 Machine Learning & AI  
+- 📊 Data Analytics & Visualization  
+- 🧩 Predictive Modeling & Classification  
+- 🧠 Generative AI & LLMs  
 - 👁️ Computer Vision (exploring)
 
 ---
