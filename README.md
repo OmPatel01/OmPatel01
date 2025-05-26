@@ -14,7 +14,7 @@
 ---
 
 ## 💻 Tech Stack:
-**Languages:** Python, SQL, Bash  
+**Languages:** Python, SQL
 **Libraries & Frameworks:**  
 - **Data Science & ML:** Pandas, NumPy, Scikit-learn
 - **Deep Learning:** TensorFlow, Keras 
