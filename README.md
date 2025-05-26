@@ -25,8 +25,7 @@
 - Git & GitHub  
 - Power BI, Excel  
 - VS Code, Jupyter Notebook, Google Colab  
-- Linux, Docker (basic), Streamlit  
-- Postman, REST APIs  
+- Docker (basic), Streamlit   
 
 **Skills:**  
 - Exploratory Data Analysis (EDA)  
