@@ -1,13 +1,18 @@
 # 💫 About Me:
-👋 Hi there! I’m **Om Patel**, a Data Science and AI enthusiast with a product-driven mindset. I enjoy solving real-world problems through intelligent systems, transforming data into actionable insights, and creating scalable AI solutions.
+👋 Hi, I’m **Om Patel** — passionate about building **AI systems** that actually solve **real-world problems**.
 
-🚀 I’m currently working part-time as an **AI/ML Engineer at a stealth startup**, where I contribute to the development of intelligent agent systems and web-scale perception modules.
+I’ve worked as an **AI/ML Engineer** and **Data Engineer**, contributing to **Generative AI** and **LLM-based products**, including systems designed to **optimize and reduce LLM costs**.
 
-🧠 My interests lie at the intersection of **Machine Learning, Generative AI, and Large Language Models (LLMs)**. I’m also actively exploring **Computer Vision** and advanced deep learning techniques.
+🚀 I enjoy working at the intersection of:
+• **Generative AI & Large Language Models (LLMs)**
+• **AI Agents & Intelligent Systems**
+• **Data Science & Predictive Modeling**
 
-💡 I bring a **product-driven mindset**, focusing on building **efficient and scalable AI solutions** that create real impact.
+💡 I focus on taking ideas from **experimentation → production** — building **scalable**, **efficient**, and **impactful AI solutions**.
 
-🤝 I’m open to **collaborations and side projects** in AI, machine learning, and data science. I enjoy working with teams who are passionate about innovation and eager to build **meaningful AI products**.
+📌 Currently seeking opportunities in **Data Science**, **AI**, and **Machine Learning roles**.
+
+🤝 Always open to **collaborating on ambitious AI projects**.
 
 🌐 **Portfolio:** [https://ompatel01.github.io/Portfolio/](https://ompatel01.github.io/Portfolio/)
 
