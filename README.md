@@ -1,67 +1,77 @@
-# 💫 About Me:
-👋 Hi, I’m **Om Patel** — passionate about building **AI systems** that actually solve **real-world problems**.
+# 💫 About Me
 
-I’ve worked as an **AI/ML Engineer** and **Data Engineer**, contributing to **Generative AI** and **LLM-based products**, including systems designed to **optimize and reduce LLM costs**.
+Hi, I’m **Om Patel** — a **Data Scientist & Machine Learning Engineer** focused on building **real-world, production-oriented AI systems**.
 
-🚀 I enjoy working at the intersection of:
-• **Generative AI & Large Language Models (LLMs)**
-• **AI Agents & Intelligent Systems**
-• **Data Science & Predictive Modeling**
-
-💡 I focus on taking ideas from **experimentation → production** — building **scalable**, **efficient**, and **impactful AI solutions**.
-
-📌 Currently seeking opportunities in **Data Science**, **AI**, and **Machine Learning roles**.
-
-🤝 Always open to **collaborating on ambitious AI projects**.
-
-🌐 **Portfolio:** [https://ompatel01.github.io/Portfolio/](https://ompatel01.github.io/Portfolio/)
+I work across the full lifecycle of machine learning — from **data analysis and modeling to deployment and system integration** — with a strong emphasis on **business impact and usability**, not just model performance.
 
 ---
 
-## 💻 Tech Stack:
-**Languages:** Python, SQL
-**Libraries & Frameworks:**  
-- **Data Science & ML:** Pandas, NumPy, Scikit-learn
-- **Deep Learning:** TensorFlow, Keras 
-- **NLP & LLMs:** Hugging Face Transformers, LangChain  
-- **Visualization:** Matplotlib, Seaborn
+## 🚀 What I Do
 
-**Tools & Platforms:**  
-- Git & GitHub  
-- Power BI, Excel  
-- VS Code, Jupyter Notebook, Google Colab  
-- Docker (basic), Streamlit   
-
-**Skills:**  
-- Exploratory Data Analysis (EDA)  
-- Predictive Modeling & Classification  
-- Fine-tuning LLMs & Generative AI  
-- Prompt Engineering  
-- Model Deployment (basic)  
-- Working with APIs & Agent-based Systems
----
-
-## 🔍 Focus Areas:
-- 🤖 Machine Learning & AI  
-- 📊 Data Analytics & Visualization  
-- 🧩 Predictive Modeling & Classification  
-- 🧠 Generative AI & LLMs  
-- 👁️ Computer Vision (exploring)
+- Build **end-to-end ML systems** for prediction, risk modeling, and decision-making  
+- Work with **Generative AI & LLMs** to develop practical, efficient AI workflows  
+- Design solutions that balance **performance, scalability, and cost**  
+- Focus on taking ideas from **experimentation → production-ready systems**
 
 ---
 
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/om-patel-tech)  
+## 🧠 Core Areas
+
+- **Machine Learning & Data Science**
+- **Predictive Modeling & Risk Analytics**
+- **Generative AI & LLM Applications**
+- **AI Agents & Intelligent Workflows**
+- **Applied AI System Design**
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OmPatel01&theme=default&hide_border=false&include_all_commits=true&count_private=false)
+## 💻 Tech Stack
 
-<!-- Optional: Add more stats below if needed -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=OmPatel01&theme=default&hide_border=false) -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmPatel01&theme=default&hide_border=false&layout=compact) -->
+**Languages**  
+Python, SQL  
+
+**Machine Learning & Data**  
+Pandas, NumPy, Scikit-learn  
+
+**Deep Learning**  
+TensorFlow, Keras  
+
+**LLMs & NLP**  
+Hugging Face Transformers, LangChain  
+
+**Tools & Deployment**  
+Docker, Streamlit, FastAPI, MLFlow, DVC  
+
+**Visualization**  
+Matplotlib, Seaborn, Power BI  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=OmPatel01&icon=5&color=0)](https://visitcount.itsvg.in)
+## 📌 Current Focus
+
+- Strengthening **ML system design & deployment**
+- Exploring **advanced LLM applications & AI agents**
+- Building **projects with real-world impact**
+
+---
+
+## 🎯 Career Objective
+
+Actively seeking roles as a **Data Scientist / Machine Learning Engineer**, where I can contribute to building **scalable, production-ready AI systems**.
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://ompatel01.github.io/Portfolio/
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to:
+- Collaboration on AI/ML projects  
+- Discussing ideas around data-driven systems  
+- Opportunities in Data Science & AI  
+
+---
